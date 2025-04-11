@@ -4,7 +4,7 @@
   <img src="images/scheme_1.png" alt="Accumulation of epimutations over cell divisions" width="300px" height="auto">
 </p>
 
-MethylTree utilizes frequent yet stable epimutations on sparse single-cell DNA methylation profiles to build a lineage tree that reflects cell division histories. This approach is highly accurate and does not require genetic manipulation for the cells of interest, thus applicable to human tissues. This is based on our recent manuscript (Chen & Fu et.al., Nature Methods, 2025).
+MethylTree utilizes frequent yet stable epimutations on sparse single-cell DNA methylation profiles to build a lineage tree that reflects cell division histories. This approach is highly accurate and does not require genetic manipulation for the cells of interest, thus applicable to human tissues. This is based on our recent manuscript ([Chen & Fu et.al., Nature Methods, 2025](https://www.nature.com/articles/s41592-024-02567-1)).
 
 ![Schematic of MethylTree analysis](images/scheme_2.png)
 
