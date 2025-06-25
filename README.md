@@ -20,7 +20,11 @@ pip install jupyterlab
 python -m ipykernel install --user --name=MethylTree
 ```
 
-## MethylTree analysis
+## MethylTree Analysis starting from raw CpG files
+Once the raw CpG files for each cell are generated using mapping softwares like Bismark, you can first follow the [preprocessing notebook](https://github.com/ShouWenWang-Lab/MethylTree_notebooks/blob/main/mouse_LK_only_quality_checking.ipynb) and then the [downstream analysis notebook](https://github.com/ShouWenWang-Lab/MethylTree_notebooks/blob/main/mouse_LK_downstream_analysis.ipynb) to get the lineage inference results from MethylTree. For more information, please visit our [notebook repository](https://github.com/ShouWenWang-Lab/MethylTree_notebooks) that reproduce all analysis in our MethylTree paper. Raw data can be obtained from either [figshare](https://figshare.com/articles/dataset/High-resolution_noninvasive_single-cell_lineage_tracing_in_mice_and_humans_based_on_DNA_methylation_epimutations/27265212?file=49943949) or [GEO database](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE262580).
+
+
+## MethylTree analysis explanation with a toy data
 The usage of MethylTree is illustrated in the test module `test/MethylTree`. The `MethylTree.ipynb` notebook can be executed directly on the test dataset. The test data is a subset of the DARLIN dataset (Li et.al., Cell, 2023). This notebook offers a detailed tutorial of the key functionalities of MethylTree, including lineage tree reconstruction, visualization, result characterization, embedding, clone inference etc. Please use the `MethylTree` environment.
 
 
