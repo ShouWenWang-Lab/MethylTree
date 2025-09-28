@@ -3,6 +3,7 @@
 *.svg
 /**/.snakemake
 *.done
+/**/__pycache__/*
 test/processing/test_RNA_10X/*
 !test/processing/test_RNA_10X/config.yaml
 test/processing/test_RNA_Lime/*
