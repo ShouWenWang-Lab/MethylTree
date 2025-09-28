@@ -1,4 +1,4 @@
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 
 from . import QC, adata, analysis, batch, clone
 from . import help_functions as hf

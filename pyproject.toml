@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "methyltree"
-version = "0.1.0"
+version = "1.0.0"
 description = "High-resolution, noninvasive single-cell lineage tracing based on DNA methylation epimutations."
 authors = ["ShouWenWang <wangshouwen@westlake.edu.cn>","raymond-u <36328498+raymond-u@users.noreply.github.com>"]
 packages = [{ include = "methyltree", from = "." }]

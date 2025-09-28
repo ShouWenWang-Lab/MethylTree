@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__))))
 
 setup(
     name="methyltree",  # this name does not matter, what matter is the folder name that contains the __init__.py
-    version="0.1.0",
+    version="1.0.0",
     python_requires=">=3.9",
     packages=["methyltree"],  # Include only the methyltree package
     author="Shou-Wen Wang",
