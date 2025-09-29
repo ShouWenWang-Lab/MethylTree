@@ -43,4 +43,4 @@ More detailed information for the explanation of MethylTree input and output can
 
 ## Updated: MethylTree Analysis with EPI-Clone Datasets
 
-We provide a [notebook](https://github.com/ShouWenWang-Lab/MethylTree_notebooks/tree/main/Using_MethylTree_to_analyze_EPI-Clone_datasets) that applies **MethylTree** to analyze the transplanted mouse dataset *LARRY_mouse1* from the EPI-Clone study. This is based on our recent manuscript ([Fu et.al., Quantitative Biology, 2026]([https://www.nature.com/articles/s41592-024-02567-1](https://onlinelibrary.wiley.com/doi/10.1002/qub2.70017))).
+We provide a [notebook](https://github.com/ShouWenWang-Lab/MethylTree_notebooks/tree/main/Using_MethylTree_to_analyze_EPI-Clone_datasets) that applies **MethylTree** to analyze the transplanted mouse dataset *LARRY_mouse1* from the EPI-Clone study. This is based on our recent manuscript ([Fu et.al., Quantitative Biology, 2026](https://onlinelibrary.wiley.com/doi/10.1002/qub2.70017)).
