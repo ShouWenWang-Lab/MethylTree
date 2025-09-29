@@ -41,6 +41,6 @@ Once the raw CpG files for each cell are generated using mapping softwares like 
 
 More detailed information for the explanation of MethylTree input and output can be found at [here](https://github.com/ShouWenWang-Lab/methyltree_docs).
 
-## MethylTree Analysis with EPI-Clone Datasets (_Last updated: September 29, 2025_)
+## Updated: MethylTree Analysis with EPI-Clone Datasets
 
 We provide a [notebook](https://github.com/ShouWenWang-Lab/MethylTree_notebooks/tree/main/Using_MethylTree_to_analyze_EPI-Clone_datasets) that applies **MethylTree** to analyze the transplanted mouse dataset *LARRY_mouse1* from the EPI-Clone study.
