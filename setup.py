@@ -15,5 +15,5 @@ setup(
     author_email="wangshouwen@westlake.edu.cn",
     description="MethyTree: High-resolution, noninvasive single-cell lineage tracing based on DNA methylation epimutations",
     long_description=Path("README.md").read_text("utf-8"),
-    license="License :: Other/Proprietary License",
+    license="Academic Non-Commercial",
 )

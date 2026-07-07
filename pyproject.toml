@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "High-resolution, noninvasive single-cell lineage tracing based on DNA methylation epimutations."
 authors = ["ShouWenWang <wangshouwen@westlake.edu.cn>","raymond-u <36328498+raymond-u@users.noreply.github.com>"]
 packages = [{ include = "methyltree", from = "." }]
-license = "Proprietary"
+license = "Academic Non-Commercial"
 
 [tool.poetry.dependencies]
 python = ">=3.9, <3.12"
